@@ -1,1 +1,1 @@
-print("Hello DSCI 510!")
+print("Welcome to DCSCI 510!")
